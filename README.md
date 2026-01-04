@@ -40,7 +40,7 @@ This app lets you update your CFW (Atmosphere + Hekate) directly on your Switch 
 
 - Navigate with Up/Down, confirm with A.
 - "Update CFW" → both packs + reboot.
-- Firmware → select pack → download/extract → use Daybreak.
+- Firmware → select pack → download .zip / extract zip yourself → use Daybreak.
 - "Update App" → new .nro → exit and relaunch.
 
 ## Building from Source
