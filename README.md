@@ -47,7 +47,7 @@ This app lets you update your CFW (Atmosphere + Hekate) directly on your Switch 
 
 Requires devkitPro with libnx.
 
--make clean 
+-make clean
 -make
 
 
